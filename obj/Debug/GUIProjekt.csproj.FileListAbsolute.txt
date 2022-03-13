@@ -1,0 +1,197 @@
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\bin\Debug\GUIProjekt.exe.config
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\bin\Debug\GUIProjekt.exe
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\bin\Debug\GUIProjekt.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\bin\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\bin\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.AssemblyReference.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\MainWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\App.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.lref
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\MainWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.g.resources
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.Properties.Resources.resources
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.GenerateResource.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.CoreCompileInputs.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.CopyComplete
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.exe
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GUIProjekt.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Glowna.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Goscie.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Kadra.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Pokoje.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Rezerwacje.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Zmiany.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Glowna.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Goscie.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Kadra.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Pokoje.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Rezerwacje.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\Zmiany.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\PokojWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\PokojWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GoscWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\obj\Debug\GoscWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.AssemblyReference.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Glowna.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Goscie.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GoscWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Kadra.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\MainWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Pokoje.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\PokojWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Rezerwacje.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Zmiany.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\App.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.lref
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.exe
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\bin\Debug\GUIProjekt.exe.config
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\bin\Debug\GUIProjekt.exe
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\bin\Debug\GUIProjekt.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\bin\Debug\BibliotekaHotel.dll
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\bin\Debug\BibliotekaHotel.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Glowna.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Goscie.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GoscWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Kadra.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\MainWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Pokoje.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\PokojWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Rezerwacje.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\Zmiany.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.g.resources
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.Properties.Resources.resources
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.GenerateResource.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.CoreCompileInputs.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\GUIProjekt.csproj.CopyComplete
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\DodajPracownikaWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\DodajPracownikaWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\KierownikWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\KierownikWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\ZarobkiWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\obj\Debug\ZarobkiWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\bin\Debug\GUIProjekt.exe.config
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\bin\Debug\GUIProjekt.exe
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\bin\Debug\GUIProjekt.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\bin\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\bin\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.csproj.AssemblyReference.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\DodajPracownikaWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Glowna.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Goscie.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GoscWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Kadra.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\KierownikWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\MainWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Pokoje.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\PokojWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Rezerwacje.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\ZarobkiWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Zmiany.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\App.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.lref
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\DodajPracownikaWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Glowna.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Goscie.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GoscWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Kadra.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\KierownikWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\MainWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Pokoje.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\PokojWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Rezerwacje.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\ZarobkiWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\Zmiany.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.g.resources
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.Properties.Resources.resources
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.csproj.GenerateResource.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.csproj.CoreCompileInputs.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.csproj.CopyComplete
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.exe
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\obj\Debug\GUIProjekt.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.csproj.AssemblyReference.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\DodajPracownikaWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Glowna.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Goscie.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GoscWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Kadra.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\KierownikWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\MainWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Pokoje.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\PokojWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Rezerwacje.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\ZarobkiWindow.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Zmiany.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\App.g.cs
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.lref
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.exe
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\bin\Debug\GUIProjekt.exe.config
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\bin\Debug\GUIProjekt.exe
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\bin\Debug\GUIProjekt.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\bin\Debug\BibliotekaHotel.dll
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\bin\Debug\BibliotekaHotel.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\DodajPracownikaWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Glowna.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Goscie.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GoscWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Kadra.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\KierownikWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\MainWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Pokoje.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\PokojWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Rezerwacje.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\ZarobkiWindow.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\Zmiany.baml
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.g.resources
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.Properties.Resources.resources
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.csproj.GenerateResource.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.csproj.CoreCompileInputs.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\Nowy folder\GUIProjekt\obj\Debug\GUIProjekt.csproj.CopyComplete
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\GUIProjekt.exe.config
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\GUIProjekt.exe
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\GUIProjekt.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.csproj.AssemblyReference.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\DodajPracownikaWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Glowna.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Goscie.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GoscWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Kadra.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\KierownikWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\MainWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Pokoje.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\PokojWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Rezerwacje.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\ZarobkiWindow.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Zmiany.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\App.g.cs
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt_MarkupCompile.lref
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\DodajPracownikaWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Glowna.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Goscie.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GoscWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Kadra.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\KierownikWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\MainWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Pokoje.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\PokojWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Rezerwacje.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\ZarobkiWindow.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\Zmiany.baml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.g.resources
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.Properties.Resources.resources
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.csproj.GenerateResource.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.csproj.CoreCompileInputs.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.csproj.CopyComplete
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.exe
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\BibliotekaHotel.xml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\bin\Debug\GUIProjekt.xml
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\obj\Debug\GUIProjekt.csproj.SuggestedBindingRedirects.cache

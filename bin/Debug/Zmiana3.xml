@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zmiana xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KierownikZmiany>
+    <Imie>Darek</Imie>
+    <Nazwisko>Smyczyński</Nazwisko>
+    <Pesel>15968542012</Pesel>
+    <DataUrodzenia>1997-12-11T00:00:00</DataUrodzenia>
+    <NumerTelefonu>666-584-875</NumerTelefonu>
+    <Plec>M</Plec>
+    <Stopien>KierownikZespołu</Stopien>
+    <NumerKonta>17 8904 0001 3470 5536 6374 6411</NumerKonta>
+    <Zarobki>6000</Zarobki>
+  </KierownikZmiany>
+  <ListaPracownikow>
+    <Pracownik>
+      <Imie>Edward</Imie>
+      <Nazwisko>Szybki</Nazwisko>
+      <Pesel>03154935249</Pesel>
+      <DataUrodzenia>1995-07-01T00:00:00</DataUrodzenia>
+      <NumerTelefonu>145-985-685</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>71 1440 1299 0579 5523 7191 6491</NumerKonta>
+      <Funkcja>Portier</Funkcja>
+      <Zarobki>3100</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Elżbieta</Imie>
+      <Nazwisko>Kucharek</Nazwisko>
+      <Pesel>15963258749</Pesel>
+      <DataUrodzenia>2000-11-11T00:00:00</DataUrodzenia>
+      <NumerTelefonu>784-985-625</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>81 1610 1292 4122 1307 0802 9378</NumerKonta>
+      <Funkcja>PomocKuchenna</Funkcja>
+      <Zarobki>3300</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Daria</Imie>
+      <Nazwisko>Knur</Nazwisko>
+      <Pesel>20186952347</Pesel>
+      <DataUrodzenia>1985-09-05T00:00:00</DataUrodzenia>
+      <NumerTelefonu>485-362-699</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>27 1020 3440 8141 7262 4601 6393</NumerKonta>
+      <Funkcja>Kucharz</Funkcja>
+      <Zarobki>5000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Białowąs</Imie>
+      <Nazwisko>Podkręcony</Nazwisko>
+      <Pesel>11218805570</Pesel>
+      <DataUrodzenia>1976-08-19T00:00:00</DataUrodzenia>
+      <NumerTelefonu>112-446-953</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>15 1500 1113 2518 3833 9874 7455</NumerKonta>
+      <Funkcja>Kelner</Funkcja>
+      <Zarobki>3200</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Geralt</Imie>
+      <Nazwisko>Riv</Nazwisko>
+      <Pesel>41419908776</Pesel>
+      <DataUrodzenia>1993-11-30T00:00:00</DataUrodzenia>
+      <NumerTelefonu>946-656-226</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>51 1240 4429 2292 5011 3219 1612</NumerKonta>
+      <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+      <Zarobki>3500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Robert</Imie>
+      <Nazwisko>Lewandowski</Nazwisko>
+      <Pesel>21444559114</Pesel>
+      <DataUrodzenia>1987-03-19T00:00:00</DataUrodzenia>
+      <NumerTelefonu>111-222-353</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta> 22 8149 0000 8645 1083 7923 8947</NumerKonta>
+      <Funkcja>Ochroniarz</Funkcja>
+      <Zarobki>2900</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Bożydariusz</Imie>
+      <Nazwisko>Mielony</Nazwisko>
+      <Pesel>77210733376</Pesel>
+      <DataUrodzenia>1991-09-23T00:00:00</DataUrodzenia>
+      <NumerTelefonu>664-657-222</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>16 8001 0005 9980 0700 9244 3555</NumerKonta>
+      <Funkcja>ZłotaRączka</Funkcja>
+      <Zarobki>4500</Zarobki>
+    </Pracownik>
+  </ListaPracownikow>
+  <LiczbaPracownikowZmiany>7</LiczbaPracownikowZmiany>
+  <NazwaZmiany>Nocna</NazwaZmiany>
+</Zmiana>

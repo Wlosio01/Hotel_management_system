@@ -1,0 +1,25 @@
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.AssemblyReference.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.CoreCompileInputs.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\Projektpliki\GUIProjekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.dll
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.pdb
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.AssemblyReference.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.CoreCompileInputs.cache
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.dll
+C:\Users\zajac\OneDrive\Pulpit\IiE AGH\ROK II\SEMESTR III\PO\Ćwiczenia\Projekt\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.AssemblyReference.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.CoreCompileInputs.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektDalej\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.AssemblyReference.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.csproj.CoreCompileInputs.cache
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.dll
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\obj\Debug\BibliotekaHotel.pdb
+C:\Users\krzys\OneDrive\Pulpit\Studia_lic_IiE\III_sem_IiE\ProgramowanieObiektowe\ProjektKoniec\GUIProjekt\BibliotekaHotel\bin\Debug\BibliotekaHotel.xml
